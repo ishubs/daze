@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/github.io/daze/static/css/main.a612d558.chunk.css",
-    "main.js": "/github.io/daze/static/js/main.d667faa9.chunk.js",
-    "main.js.map": "/github.io/daze/static/js/main.d667faa9.chunk.js.map",
-    "runtime-main.js": "/github.io/daze/static/js/runtime-main.1656d741.js",
-    "runtime-main.js.map": "/github.io/daze/static/js/runtime-main.1656d741.js.map",
-    "static/css/2.1b7c3513.chunk.css": "/github.io/daze/static/css/2.1b7c3513.chunk.css",
-    "static/js/2.bec0c0f0.chunk.js": "/github.io/daze/static/js/2.bec0c0f0.chunk.js",
-    "static/js/2.bec0c0f0.chunk.js.map": "/github.io/daze/static/js/2.bec0c0f0.chunk.js.map",
-    "index.html": "/github.io/daze/index.html",
-    "precache-manifest.dd4c0ea9de75f98e96583c467857fc60.js": "/github.io/daze/precache-manifest.dd4c0ea9de75f98e96583c467857fc60.js",
-    "service-worker.js": "/github.io/daze/service-worker.js",
-    "static/css/2.1b7c3513.chunk.css.map": "/github.io/daze/static/css/2.1b7c3513.chunk.css.map",
-    "static/css/main.a612d558.chunk.css.map": "/github.io/daze/static/css/main.a612d558.chunk.css.map",
-    "static/media/mdb.css": "/github.io/daze/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/avatar.webp": "/github.io/daze/static/media/avatar.0f09e5f7.webp",
-    "static/media/all.min.css": "/github.io/daze/static/media/fa-solid-900.c2801fb4.svg",
-    "static/media/logo.webp": "/github.io/daze/static/media/logo.5910bd95.webp"
+    "main.css": "/daze/static/css/main.a612d558.chunk.css",
+    "main.js": "/daze/static/js/main.3febd1ce.chunk.js",
+    "main.js.map": "/daze/static/js/main.3febd1ce.chunk.js.map",
+    "runtime-main.js": "/daze/static/js/runtime-main.238a1952.js",
+    "runtime-main.js.map": "/daze/static/js/runtime-main.238a1952.js.map",
+    "static/css/2.ef582efd.chunk.css": "/daze/static/css/2.ef582efd.chunk.css",
+    "static/js/2.bec0c0f0.chunk.js": "/daze/static/js/2.bec0c0f0.chunk.js",
+    "static/js/2.bec0c0f0.chunk.js.map": "/daze/static/js/2.bec0c0f0.chunk.js.map",
+    "index.html": "/daze/index.html",
+    "precache-manifest.0723ca93ecb7caa8038e48aa0797151c.js": "/daze/precache-manifest.0723ca93ecb7caa8038e48aa0797151c.js",
+    "service-worker.js": "/daze/service-worker.js",
+    "static/css/2.ef582efd.chunk.css.map": "/daze/static/css/2.ef582efd.chunk.css.map",
+    "static/css/main.a612d558.chunk.css.map": "/daze/static/css/main.a612d558.chunk.css.map",
+    "static/media/mdb.css": "/daze/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/avatar.webp": "/daze/static/media/avatar.0f09e5f7.webp",
+    "static/media/all.min.css": "/daze/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/logo.webp": "/daze/static/media/logo.5910bd95.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.1656d741.js",
-    "static/css/2.1b7c3513.chunk.css",
+    "static/js/runtime-main.238a1952.js",
+    "static/css/2.ef582efd.chunk.css",
     "static/js/2.bec0c0f0.chunk.js",
     "static/css/main.a612d558.chunk.css",
-    "static/js/main.d667faa9.chunk.js"
+    "static/js/main.3febd1ce.chunk.js"
   ]
 }
