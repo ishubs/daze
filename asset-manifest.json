@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/daze/static/css/main.a612d558.chunk.css",
-    "main.js": "/daze/static/js/main.3febd1ce.chunk.js",
-    "main.js.map": "/daze/static/js/main.3febd1ce.chunk.js.map",
+    "main.js": "/daze/static/js/main.47dce27f.chunk.js",
+    "main.js.map": "/daze/static/js/main.47dce27f.chunk.js.map",
     "runtime-main.js": "/daze/static/js/runtime-main.238a1952.js",
     "runtime-main.js.map": "/daze/static/js/runtime-main.238a1952.js.map",
     "static/css/2.ef582efd.chunk.css": "/daze/static/css/2.ef582efd.chunk.css",
     "static/js/2.bec0c0f0.chunk.js": "/daze/static/js/2.bec0c0f0.chunk.js",
     "static/js/2.bec0c0f0.chunk.js.map": "/daze/static/js/2.bec0c0f0.chunk.js.map",
     "index.html": "/daze/index.html",
-    "precache-manifest.0723ca93ecb7caa8038e48aa0797151c.js": "/daze/precache-manifest.0723ca93ecb7caa8038e48aa0797151c.js",
+    "precache-manifest.e4017da2daa48d92958205b5c6e36f32.js": "/daze/precache-manifest.e4017da2daa48d92958205b5c6e36f32.js",
     "service-worker.js": "/daze/service-worker.js",
     "static/css/2.ef582efd.chunk.css.map": "/daze/static/css/2.ef582efd.chunk.css.map",
     "static/css/main.a612d558.chunk.css.map": "/daze/static/css/main.a612d558.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.ef582efd.chunk.css",
     "static/js/2.bec0c0f0.chunk.js",
     "static/css/main.a612d558.chunk.css",
-    "static/js/main.3febd1ce.chunk.js"
+    "static/js/main.47dce27f.chunk.js"
   ]
 }

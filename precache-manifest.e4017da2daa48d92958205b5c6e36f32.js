@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce17e0623698f2ab20883836cdf9a7fe",
+    "revision": "085e16df5194684ecd7131c6018a49c9",
     "url": "/daze/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daze/static/css/2.ef582efd.chunk.css"
   },
   {
-    "revision": "67cda70d5dce41494765",
+    "revision": "38b067bd93f955adf115",
     "url": "/daze/static/css/main.a612d558.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daze/static/js/2.bec0c0f0.chunk.js"
   },
   {
-    "revision": "67cda70d5dce41494765",
-    "url": "/daze/static/js/main.3febd1ce.chunk.js"
+    "revision": "38b067bd93f955adf115",
+    "url": "/daze/static/js/main.47dce27f.chunk.js"
   },
   {
     "revision": "6883359e1741bc13ef23",
